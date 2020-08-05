@@ -1,0 +1,8 @@
+D:\ASP.net_WebApi\WebApi2\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+D:\ASP.net_WebApi\WebApi2\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+D:\ASP.net_WebApi\WebApi2\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+D:\ASP.net_WebApi\WebApi2\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+D:\ASP.net_WebApi\WebApi2\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+D:\ASP.net_WebApi\WebApi2\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csprojResolveAssemblyReference.cache
+D:\ASP.net_WebApi\WebApi2\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+D:\ASP.net_WebApi\WebApi2\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
